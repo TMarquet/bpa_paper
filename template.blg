@@ -1,7 +1,11 @@
-This is BibTeX, Version 0.99d (MiKTeX 2.9.7380 64-bit)
+This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: template.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: alpha.bst
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+Reallocating 'name_of_file' (item size: 1) to 7 items.
 Database file #1: abbrev3.bib
 Reallocating 'str_pool' (item size: 1) to 130000 items.
 Reallocating 'str_pool' (item size: 1) to 195000 items.

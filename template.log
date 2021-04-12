@@ -1,61 +1,54 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7380 64-bit) (preloaded format=latex 2021.2.9)  24 MAR 2021 10:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.6)  12 APR 2021 12:43
 entering extended mode
 **./template.tex
 (template.tex
-LaTeX2e <2020-02-02> patch level 5
-L3 programming layer <2020-03-06> (iacrtrans.cls
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03> (iacrtrans.cls
 
  *** LaTeX class for IACR Transactions v0.92 ***
 
 Document Class: iacrtrans 2020/08/24
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.st
-y"
-Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
-
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.
-tex"
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutils
-.tex"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks15
 \XKV@tempa@toks=\toks16
-
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\keyval.t
-ex"))
-\XKV@depth=\count167
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyval.tex))
+\XKV@depth=\count179
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-))
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
-Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
-File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)) (C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count168
-\c@section=\count169
-\c@subsection=\count170
-\c@subsubsection=\count171
-\c@paragraph=\count172
-\c@subparagraph=\count173
-\c@figure=\count174
-\c@table=\count175
+\c@part=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\c@figure=\count186
+\c@table=\count187
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
-\bibindent=\dimen134
-) ("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.st
-y"
+\bibindent=\dimen138
+)
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
-.cfg"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: dvips.def on input line 225.
+Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\dvips
-.def"
-File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.de
+f
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
 Package xcolor Info: Model `RGB' extended on input line 1364.
 Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
 Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
@@ -64,110 +57,100 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.
-sty"
-Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count176
-)
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperxmp\hyperxmp.
-sty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count188
+) (C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/hyperxmp\hyperxmp.st
+y
 Package: hyperxmp 2020/11/22 v5.9 Store hyperref metadata in XMP format
 \hyxmp@aep@toks=\toks17
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoption
-s.sty"
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.st
+y
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.
-sty"
-Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetk
-eys.sty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.
+sty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdfescape\pdfesc
-ape.sty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.
+sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexc
-mds.sty"
-Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmd
+s.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infwar
-err.sty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.
+sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
-)
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+) (C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+Package pdftexcmds Info: \pdfdraftmode found.
 ))
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/generic/stringenc\string
-enc.sty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.
+sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/generic/intcalc\intcalc.
-sty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
-)
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ifmtarg\ifmtarg.st
-y"
+) (C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/ifmtarg\ifmtarg.sty
 Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
-) ("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+)
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\ifdraft.s
-ty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\ifdraft.sty
 Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/totpages\totpages.
-sty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/totpages\totpages.sty
 Package: totpages 2005/09/19 v2.00 Totpages Package (muewi)
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
-Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
-))
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex.s
-ty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/base\everyshi-ltx.sty
+Package: everyshi-ltx 2020/08/17 v1.0a Emulation of the original everyshi packa
+ge
+with kernel methods
+)) (C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluatex.st
+y
 Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
 ))
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
-sty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty
-"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count177
-\Gm@cntv=\count178
-\c@Gm@tempcnt=\count179
-\Gm@bindingoffset=\dimen135
-\Gm@wd@mp=\dimen136
-\Gm@odd@mp=\dimen137
-\Gm@even@mp=\dimen138
-\Gm@layoutwidth=\dimen139
-\Gm@layoutheight=\dimen140
-\Gm@layouthoffset=\dimen141
-\Gm@layoutvoffset=\dimen142
+\Gm@cnth=\count189
+\Gm@cntv=\count190
+\c@Gm@tempcnt=\count191
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
 \Gm@dimlist=\toks18
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
-cfg"))
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\afterpage.st
-y"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)
+)
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\afterpage.
+sty
 Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
 \AP@output=\toks19
-\AP@partial=\box45
-\AP@footins=\box46
+\AP@partial=\box47
+\AP@footins=\box48
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/sectsty\sectsty.st
-y"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/sectsty\sectsty.sty
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
 
@@ -180,13 +163,12 @@ LaTeX Warning: Command \underline  has changed.
                Check if current package is valid.
 
 )
-\c@IACR@author@cnt=\count180
-\c@IACR@inst@cnt=\count181
+\c@IACR@author@cnt=\count192
+\c@IACR@inst@cnt=\count193
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.
-sty"
-Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
-s
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
 \f@nch@headwidth=\skip49
 \f@nch@O@elh=\skip50
 \f@nch@O@erh=\skip51
@@ -196,106 +178,94 @@ s
 \f@nch@O@erf=\skip55
 \f@nch@O@olf=\skip56
 \f@nch@O@orf=\skip57
-)
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
-sty"
-Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+) (C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.st
+y
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
-sty"
-Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
-
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
-ics.cfg"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.
+cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvips.def on input line 105.
+Package graphics Info: Driver file: pdftex.def on input line 105.
 )
-\Gin@req@height=\dimen143
-\Gin@req@width=\dimen144
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
-y"
-Package: amsmath 2020/01/20 v2.17e AMS math features
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
 \@mathmargin=\skip58
 
 For additional information on amsmath, use the `?' option.
-
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
-y"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
-"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks20
-\ex@=\dimen145
+\ex@=\dimen149
 ))
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
-"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen146
+\pmbraise@=\dimen150
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
-"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count182
-LaTeX Info: Redefining \frac on input line 227.
-\uproot@=\count183
-\leftroot@=\count184
-LaTeX Info: Redefining \overline on input line 389.
-\classnum@=\count185
-\DOTSCASE@=\count186
-LaTeX Info: Redefining \ldots on input line 486.
-LaTeX Info: Redefining \dots on input line 489.
-LaTeX Info: Redefining \cdots on input line 610.
-\Mathstrutbox@=\box47
-\strutbox@=\box48
-\big@size=\dimen147
-LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
-\macc@depth=\count187
-\c@MaxMatrixCols=\count188
+\inf@bad=\count194
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count195
+\leftroot@=\count196
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count197
+\DOTSCASE@=\count198
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box49
+\strutbox@=\box50
+\big@size=\dimen151
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count199
+\c@MaxMatrixCols=\count266
 \dotsspace@=\muskip16
-\c@parentequation=\count189
-\dspbrk@lvl=\count190
+\c@parentequation=\count267
+\dspbrk@lvl=\count268
 \tag@help=\toks21
-\row@=\count191
-\column@=\count192
-\maxfields@=\count193
+\row@=\count269
+\column@=\count270
+\maxfields@=\count271
 \andhelp@=\toks22
-\eqnshift@=\dimen148
-\alignsep@=\dimen149
-\tagshift@=\dimen150
-\tagwidth@=\dimen151
-\totwidth@=\dimen152
-\lineht@=\dimen153
+\eqnshift@=\dimen152
+\alignsep@=\dimen153
+\tagshift@=\dimen154
+\tagwidth@=\dimen155
+\totwidth@=\dimen156
+\lineht@=\dimen157
 \@envbody=\toks23
 \multlinegap=\skip59
 \multlinetaggap=\skip60
 \mathdisplay@stack=\toks24
-LaTeX Info: Redefining \[ on input line 2859.
-LaTeX Info: Redefining \] on input line 2860.
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.s
-ty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.
-sty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
-))
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amscls\amsthm.sty"
-Package: amsthm 2017/10/31 v2.20.4
+)) (C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
 \thm@style=\toks25
 \thm@bodyfont=\toks26
 \thm@headfont=\toks27
@@ -306,115 +276,112 @@ Package: amsthm 2017/10/31 v2.20.4
 \thm@headsep=\skip63
 \dth@everypar=\toks30
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mathtool
-s.sty"
-Package: mathtools 2020/03/24 v1.24 mathematical typesetting tools
-
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mathtools.st
+y
+Package: mathtools 2021/03/28 v1.26 mathematical typesetting tools
+ (C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count194
-\calc@Bcount=\count195
-\calc@Adimen=\dimen154
-\calc@Bdimen=\dimen155
+\calc@Acount=\count272
+\calc@Bcount=\count273
+\calc@Adimen=\dimen158
+\calc@Bdimen=\dimen159
 \calc@Askip=\skip64
 \calc@Bskip=\skip65
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count196
+\calc@Ccount=\count274
 \calc@Cskip=\skip66
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/mathtools\mhsetup.
-sty"
-Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/mathtools\mhsetup.sty
+Package: mhsetup 2021/03/18 v1.4 programming setup (MH)
 )
 LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 130.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
-\g_MT_multlinerow_int=\count197
-\l_MT_multwidth_dim=\dimen156
+\g_MT_multlinerow_int=\count275
+\l_MT_multwidth_dim=\dimen160
 \origjot=\skip67
-\l_MT_shortvdotswithinadjustabove_dim=\dimen157
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen158
-\l_MT_above_intertext_sep=\dimen159
-\l_MT_below_intertext_sep=\dimen160
-\l_MT_above_shortintertext_sep=\dimen161
-\l_MT_below_shortintertext_sep=\dimen162
-\xmathstrut@box=\box49
-\xmathstrut@dim=\dimen163
+\l_MT_shortvdotswithinadjustabove_dim=\dimen161
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen162
+\l_MT_above_intertext_sep=\dimen163
+\l_MT_below_intertext_sep=\dimen164
+\l_MT_above_shortintertext_sep=\dimen165
+\l_MT_below_shortintertext_sep=\dimen166
+\xmathstrut@box=\box51
+\xmathstrut@dim=\dimen167
 )
-\c@definition=\count198
-\c@example=\count199
-\c@exercise=\count266
-\c@property=\count267
-\c@question=\count268
-\c@solution=\count269
-\c@theorem=\count270
-\c@proposition=\count271
-\c@problem=\count272
-\c@lemma=\count273
-\c@conjecture=\count274
-\c@corollary=\count275
-\c@remark=\count276
-\c@note=\count277
-\c@case=\count278
-
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+\c@definition=\count276
+\c@example=\count277
+\c@exercise=\count278
+\c@property=\count279
+\c@question=\count280
+\c@solution=\count281
+\c@theorem=\count282
+\c@proposition=\count283
+\c@problem=\count284
+\c@lemma=\count285
+\c@conjecture=\count286
+\c@corollary=\count287
+\c@remark=\count288
+\c@note=\count289
+\c@case=\count290
+ (C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count279
+\c@float@type=\count291
 \float@exts=\toks31
-\float@box=\box50
+\float@box=\box52
 \@float@everytoks=\toks32
-\@floatcapt=\box51
+\@floatcapt=\box53
 )
 \@float@every@table=\toks33
 \@float@every@figure=\toks34
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lineno\lineno.sty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.sty
 Package: lineno 2005/11/02 line numbers on paragraphs v4.41
-\linenopenalty=\count280
+\linenopenalty=\count292
 \output=\toks35
-\linenoprevgraf=\count281
-\linenumbersep=\dimen164
-\linenumberwidth=\dimen165
-\c@linenumber=\count282
-\c@pagewiselinenumber=\count283
-\c@LN@truepage=\count284
-\c@internallinenumber=\count285
-\c@internallinenumbers=\count286
-\quotelinenumbersep=\dimen166
-\bframerule=\dimen167
-\bframesep=\dimen168
-\bframebox=\box52
+\linenoprevgraf=\count293
+\linenumbersep=\dimen168
+\linenumberwidth=\dimen169
+\c@linenumber=\count294
+\c@pagewiselinenumber=\count295
+\c@LN@truepage=\count296
+\c@internallinenumber=\count297
+\c@internallinenumbers=\count298
+\quotelinenumbersep=\dimen170
+\bframerule=\dimen171
+\bframesep=\dimen172
+\bframebox=\box54
 LaTeX Info: Redefining \\ on input line 3056.
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microtyp
-e.sty"
-Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.st
+y
+Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
 \MT@toks=\toks36
-\MT@count=\count287
+\MT@count=\count299
 LaTeX Info: Redefining \textls on input line 790.
-\MT@outer@kern=\dimen169
-LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
-\MT@listname@count=\count288
+\MT@outer@kern=\dimen173
+LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
+\MT@listname@count=\count300
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microtyp
-e-pdftex.def"
-File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pd
+ftex.def
+File: microtype-pdftex.def 2021/03/14 v2.8c Definitions specific to pdftex (RS)
 
-LaTeX Info: Redefining \lsstyle on input line 914.
-LaTeX Info: Redefining \lslig on input line 914.
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
 \MT@outer@space=\skip68
 )
 Package microtype Info: Loading configuration file microtype.cfg.
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\microtyp
-e.cfg"
-File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
-))
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
-Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
-) ("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\lmodern.sty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cf
+g
+File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
+)) (C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -448,153 +415,147 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
-)) ("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lipsum\lipsum.s
-ty"
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3kernel\expl3.sty
-"
-Package: expl3 2020-03-06 L3 programming layer (loader) 
-
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
-d-dvips.def"
-File: l3backend-dvips.def 2020-03-12 L3 backend support: dvips
-\l__pdf_internal_box=\box53
-\g__pdf_backend_object_int=\count289
-\l__pdf_backend_content_box=\box54
-\l__pdf_backend_model_box=\box55
-\g__pdf_backend_annotation_int=\count290
-\g__pdf_backend_link_int=\count291
-\g__pdf_backend_link_sf_int=\count292
 ))
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3packages/xparse\
-xparse.sty"
-Package: xparse 2020-03-06 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count293
-\g__xparse_grabber_int=\count294
-\l__xparse_m_args_int=\count295
-\l__xparse_v_nesting_int=\count296
-)
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count301
+\l__pdf_internal_box=\box55
+))
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpar
+se.sty
+Package: xparse 2020-10-27 L3 Experimental document command parser
+
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpar
+se-generic.tex))
 Package: lipsum 2021-03-03 v2.3 150 paragraphs of Lorem Ipsum dummy text
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lipsum\lipsum.ltd.
-tex"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex
 File: lipsum.ltd.tex 2021-03-03 v2.3 The Lorem ipsum dummy text
 ))
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.
-sty"
-Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-02-10 v7.00j Hypertext links for LaTeX
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvd
-efinekeys.sty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefin
+ekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hycolor\hycolor.st
-y"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/letltxmacro\letltx
-macro.sty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacr
+o.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/auxhook\auxhook.st
-y"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen170
-\Hy@linkcounter=\count297
-\Hy@pagecounter=\count298
+\@linkdim=\dimen174
+\Hy@linkcounter=\count302
+\Hy@pagecounter=\count303
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.de
-f"
-File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-02-10 v7.00j Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etexcmds\etexcmd
-s.sty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-lang
+patches.def
+File: hyperref-langpatches.def 2021-02-10 v7.00j Hyperref: patches for babel la
+nguages
+)
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.st
+y
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count299
-Package hyperref Info: Hyper figures OFF on input line 4547.
-Package hyperref Info: Link nesting OFF on input line 4552.
-Package hyperref Info: Hyper index ON on input line 4555.
-Package hyperref Info: Plain pages OFF on input line 4562.
-Package hyperref Info: Backreferencing OFF on input line 4567.
+\Hy@SavedSpaceFactor=\count304
+ (C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-02-10 v7.00j Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4800.
-\c@Hy@tempcnt=\count300
- ("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count305
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5159.
-\XeTeXLinkMargin=\dimen171
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen175
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bitset\bitset.st
-y"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bigintcalc\bigin
-tcalc.sty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcal
+c.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count301
-\Field@Width=\dimen172
-\Fld@charsize=\dimen173
-Package hyperref Info: Hyper figures OFF on input line 6430.
-Package hyperref Info: Link nesting OFF on input line 6435.
-Package hyperref Info: Hyper index ON on input line 6438.
-Package hyperref Info: backreferencing OFF on input line 6445.
-Package hyperref Info: Link coloring OFF on input line 6450.
-Package hyperref Info: Link coloring with OCG OFF on input line 6455.
-Package hyperref Info: PDF/A mode OFF on input line 6460.
-LaTeX Info: Redefining \ref on input line 6500.
-LaTeX Info: Redefining \pageref on input line 6504.
+\Fld@menulength=\count306
+\Field@Width=\dimen176
+\Fld@charsize=\dimen177
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/generic/atbegshi\atbegsh
-i.sty"
-Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
 )
-\Hy@abspage=\count302
-\c@Item=\count303
-\c@Hfootnote=\count304
+\Hy@abspage=\count307
+\c@Item=\count308
+\c@Hfootnote=\count309
 )
-Package hyperref Info: Driver (default): hdvips.
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-02-10 v7.00j Hyperref driver for pdfTeX
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hdvips.de
-f"
-File: hdvips.def 2020/01/14 v7.00d Hyperref driver for dvips
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count310
+\c@bookmark@seq@number=\count311
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pdfmark.d
-ef"
-File: pdfmark.def 2020/01/14 v7.00d Hyperref definitions for pdfmark specials
-\pdf@docset=\toks37
-\pdf@box=\box56
-\pdf@toks=\toks38
-\pdf@defaulttoks=\toks39
-\HyField@AnnotCount=\count305
-\Fld@listcount=\count306
-\c@bookmark@seq@number=\count307
-
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/rerunfilecheck\rer
-unfilecheck.sty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfi
+lecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/atveryend\atveryen
-d.sty"
-Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
-)
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/generic/uniquecounter\un
-iquecounter.sty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\unique
+counter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
 \Hy@SectionHShift=\skip69
-))
+)
 Package hyperref Info: Option `colorlinks' set `true' on input line 40.
- (template.aux)
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 40
+.
+
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+(template.aux)
 \openout1 = `template.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
@@ -613,17 +574,34 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 40
-.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
+LaTeX Font Info:    ... okay on input line 40.
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmr.fd"
-File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
+kii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count312
+\scratchdimen=\dimen178
+\scratchbox=\box56
+\nofMPsegments=\count313
+\nofMParguments=\count314
+\everyMPshowfont=\toks37
+\MPscratchCnt=\count315
+\MPscratchDim=\dimen179
+\MPnumerator=\count316
+\makeMPintoPDFobject=\count317
+\everyMPtoPDFconversion=\toks38
 )
-ABD: EveryShipout initializing macros
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
+base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
 *geometry* driver: auto-detecting
-*geometry* detected driver: dvips
+*geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
-* driver: dvips
+* driver: pdftex
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
@@ -657,35 +635,33 @@ ABD: EveryShipout initializing macros
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Info: Redefining \microtypecontext on input line 40.
-Package microtype Info: Generating DVI output.
+Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
-Package microtype Info: No font expansion.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 40.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-cmr.c
-fg"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-\AtBeginShipoutBox=\box57
 Package hyperref Info: Link coloring ON on input line 40.
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
-ty"
-Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcount\refcount.
-sty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/generic/gettitlestring\g
-ettitlestring.sty"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\getti
+tlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count308
+\c@section@level=\count318
 )
 LaTeX Info: Redefining \ref on input line 40.
 LaTeX Info: Redefining \pageref on input line 40.
@@ -697,7 +673,7 @@ LaTeX Info: Redefining \nameref on input line 40.
 LaTeX Font Info:    Trying to load font information for T1+lmss on input line 4
 3.
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\t1lmss.fd"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Package microtype Info: Loading generic protrusion settings for font family
@@ -707,25 +683,25 @@ Package microtype Info: Loading generic protrusion settings for font family
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 4
 3.
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ot1lmr.fd"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 4
 3.
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omllmm.fd"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
 43.
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omslmsy.fd"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
 43.
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\omxlmex.fd"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -737,78 +713,85 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 LaTeX Font Info:    Trying to load font information for U+msa on input line 43.
 
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-msa.c
-fg"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 43.
 
 
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/microtype\mt-msb.c
-fg"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 5
-4.
- ("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/latex/lm\ts1lmr.fd"
+2.
+
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 IACR@AUTHOR: Anonymous Submission to IACR ToSC
 IACR@TITLE: My New Paper
 
 
-LaTeX Warning: Citation `AES' on page 1 undefined on input line 60.
+LaTeX Warning: Citation `AES' on page 1 undefined on input line 58.
 
 
-LaTeX Warning: Citation `EC:Matsui93' on page 1 undefined on input line 62.
+LaTeX Warning: Citation `EC:Matsui93' on page 1 undefined on input line 60.
 
 
-LaTeX Warning: Citation `JC:BihSha91' on page 1 undefined on input line 63.
+LaTeX Warning: Citation `JC:BihSha91' on page 1 undefined on input line 61.
 
 
-LaTeX Warning: Citation `C:KocJafJun99' on page 1 undefined on input line 64.
+LaTeX Warning: Citation `C:KocJafJun99' on page 1 undefined on input line 62.
 
 [1.1
 
-] (template.bbl
+{C:/Users/martho/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+(template.bbl
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/generic/stringenc\se-pdf
-doc.def"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\se-pdfdoc.
+def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
 )
-("C:\Users\kahg8\AppData\Local\Programs\MiKTeX 2.9\tex/generic/stringenc\se-utf
-8.def"
+(C:\Users\martho\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\se-utf8.de
+f
 File: se-utf8.def 2019/11/29 v1.12 stringenc: UTF-8
-) [2.2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 83.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 83.
- (template.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 83.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 83.
-Package rerunfilecheck Info: File `template.out' has not changed.
-(rerunfilecheck)             Checksum: 5EA958FA90B3612E02EF10B7061ACBBC;93.
-
+) [2.2] (template.aux)
 
 LaTeX Warning: There were undefined references.
 
+Package rerunfilecheck Info: File `template.out' has not changed.
+(rerunfilecheck)             Checksum: D756A939C385EFC19D95FFB34127BA8C;204.
  )
-(\end occurred when \iftrue on line 54 was incomplete) 
+(\end occurred when \iftrue on line 52 was incomplete) 
 Here is how much of TeX's memory you used:
- 11917 strings out of 480899
- 193880 string characters out of 2898336
- 787350 words of memory out of 3000000
- 27532 multiletter control sequences out of 15000+200000
- 586769 words of font info for 56 fonts, out of 3000000 for 9000
+ 14751 strings out of 479334
+ 226623 string characters out of 2856610
+ 852144 words of memory out of 3000000
+ 31800 multiletter control sequences out of 15000+200000
+ 462844 words of font info for 116 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,11n,73p,793b,482s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 96i,11n,102p,822b,435s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/martho/AppData/
+Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/martho/AppData/Loc
+al/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}<C:/Users/martho/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/martho/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/martho/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/martho/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/martho/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/martho/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb>
+Output written on template.pdf (2 pages, 167716 bytes).
+PDF statistics:
+ 55 PDF objects out of 1000 (max. 8388607)
+ 6 named destinations out of 1000 (max. 500000)
+ 36885 words of extra memory for PDF output out of 42996 (max. 10000000)
 
-Output written on template.dvi (2 pages, 34804 bytes).
